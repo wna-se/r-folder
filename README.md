@@ -2,11 +2,11 @@ Dear attendees,
 
 Thank you for attending [Curious on R programming? Step 2](http://ub.uu.se/about-the-library/courses-and-events/calendar-details/?eventId=32320)! I have collected a few links to learning resources on R below and I hope to see you [next time (visualisation and diagrams for publishing)](http://ub.uu.se/about-the-library/courses-and-events/calendar-details/?eventId=32322) and in the future. Please do get back to me if you have any questions, ideas or requests.
 
-Links from today’s theme of autometisation and documentation
+Links from today’s theme of automation and documentation
 
 -   [R Notebooks](https://rmarkdown.rstudio.com/r_notebooks.html) -- Combining notes, code and figures for quick distribution
--   [Sample folder structure](https://github.com/wna-se/r-folder) -- The folder structue used during the workshop
--   [Git och GitHub för R](http://happygitwithr.com/big-picture.html) -- Version control and collaboration
+-   [Sample folder structure](https://github.com/wna-se/r-folder) -- The folder structure used during the workshop
+-   [Git and GitHub](http://happygitwithr.com/big-picture.html) -- Version control and collaboration for R projects
 
 For the curious and novice
 
