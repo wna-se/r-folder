@@ -11,9 +11,6 @@ resources:
   - container: node  # identifier (A-Z, a-z, 0-9, and underscore)
     image: node:9.11.1  # container image name
 
-pool:
-  name: default
-
 container: node
 
 steps:
